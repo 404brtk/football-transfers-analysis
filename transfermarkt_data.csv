@@ -96,7 +96,7 @@ FC Lorient,€2.20m,14,€2.80m,12,€600k,ligue-1
 Angers SCO,-,10,€13.50m,12,€13.50m,ligue-1
 Le Havre AC,-,20,€1.00m,20,€1.00m,ligue-1
 PSV Eindhoven,€63.20m,10,€78.00m,13,€14.80m,eredivisie
-Feyenoord Rotterdam,€56.45m,28,€94.63m,27,€38.18m,eredivisie
+Feyenoord Rotterdam,€56.45m,27,€94.63m,27,€38.18m,eredivisie
 Ajax Amsterdam,€49.75m,19,€80.18m,16,€30.43m,eredivisie
 AZ Alkmaar,€17.30m,9,€51.80m,11,€34.50m,eredivisie
 Twente Enschede FC,€11.95m,16,€17.60m,13,€5.65m,eredivisie
@@ -107,7 +107,7 @@ Heracles Almelo,€1.50m,11,-,13,€-1.50m,eredivisie
 FC Groningen,€1.41m,9,€6.75m,11,€5.34m,eredivisie
 Go Ahead Eagles,€1.40m,9,€5.40m,3,€4.00m,eredivisie
 NAC Breda,€1.35m,14,€425k,13,€-925k,eredivisie
-Sparta Rotterdam,€1.10m,16,€4.70m,15,€3.60m,eredivisie
+Sparta Rotterdam,€1.10m,17,€4.70m,15,€3.60m,eredivisie
 PEC Zwolle,€700k,13,€1.50m,13,€800k,eredivisie
 Excelsior Rotterdam,€500k,18,€600k,18,€100k,eredivisie
 Fortuna Sittard,€350k,17,€1.55m,15,€1.20m,eredivisie
@@ -122,7 +122,7 @@ Rio Ave FC,€4.95m,22,-,19,€-4.95m,liga-portugal
 FC Arouca,€4.80m,15,€6.50m,16,€1.70m,liga-portugal
 Vitória Guimarães SC,€4.10m,16,€9.00m,17,€4.90m,liga-portugal
 CF Estrela Amadora,€2.73m,30,€1.38m,24,€-1.35m,liga-portugal
-CD Tondela,€2.50m,16,€1.50m,11,€-1.00m,liga-portugal
+CD Tondela,€2.50m,17,€1.50m,12,€-1.00m,liga-portugal
 CD Nacional,€1.76m,19,-,15,€-1.76m,liga-portugal
 FC Alverca,€1.46m,33,€200k,26,€-1.26m,liga-portugal
 CD Santa Clara,€1.35m,24,€2.06m,23,€710k,liga-portugal
@@ -214,29 +214,29 @@ Arka Gdynia,-,16,-,16,+-0,ekstraklasa
 Bruk-Bet Termalica Nieciecza,-,12,-,14,+-0,ekstraklasa
 Wisla Plock,-,18,-,20,+-0,ekstraklasa
 FC Copenhagen,€21.90m,16,€25.50m,17,€3.60m,superliga
-FC Midtjylland,€10.00m,8,€15.99m,8,€5.99m,superliga
+FC Midtjylland,€10.00m,9,€15.99m,8,€5.99m,superliga
 Bröndby IF,€5.40m,13,€25.00m,9,€19.60m,superliga
 FC Nordsjaelland,€4.85m,12,€54.87m,11,€50.02m,superliga
 Viborg FF,€1.51m,12,€10.09m,13,€8.58m,superliga
 Odense Boldklub,€1.18m,8,€6.00m,5,€4.82m,superliga
 Vejle Boldklub,€989k,18,€850k,13,€-139k,superliga
 Sönderjyske Fodbold,€400k,12,€500k,11,€100k,superliga
-Randers FC,€335k,10,€1.00m,7,€665k,superliga
 Silkeborg IF,€335k,12,€3.12m,6,€2.79m,superliga
+Randers FC,€335k,10,€1.00m,7,€665k,superliga
 Aarhus GF,-,11,€6.47m,11,€6.47m,superliga
 FC Fredericia,-,6,-,6,+-0,superliga
-Red Bull Salzburg,€12.60m,29,€65.00m,27,€52.40m,bundesliga
-Rapid Vienna,€11.28m,18,€18.80m,14,€7.52m,bundesliga
-SK Sturm Graz,€6.70m,13,€6.00m,14,€-700k,bundesliga
-Austria Vienna,€2.43m,20,€4.00m,20,€1.57m,bundesliga
-LASK,€1.26m,13,€3.35m,20,€2.09m,bundesliga
-Wolfsberger AC,€500k,10,-,13,€-500k,bundesliga
-SV Ried,€130k,13,€500k,10,€370k,bundesliga
-FC Blau-Weiss Linz,-,14,-,18,+-0,bundesliga
-TSV Hartberg,-,14,€360k,13,€360k,bundesliga
-WSG Tirol,-,11,-,10,+-0,bundesliga
-Grazer AK 1902,-,19,-,17,+-0,bundesliga
-SCR Altach,-,9,€154k,13,€154k,bundesliga
+Red Bull Salzburg,€12.60m,29,€65.00m,27,€52.40m,bundesliga-A1
+Rapid Vienna,€11.28m,18,€18.80m,14,€7.52m,bundesliga-A1
+SK Sturm Graz,€6.70m,13,€6.00m,14,€-700k,bundesliga-A1
+Austria Vienna,€2.43m,20,€4.00m,20,€1.57m,bundesliga-A1
+LASK,€1.26m,13,€3.35m,20,€2.09m,bundesliga-A1
+Wolfsberger AC,€500k,10,-,13,€-500k,bundesliga-A1
+SV Ried,€130k,13,€500k,10,€370k,bundesliga-A1
+FC Blau-Weiss Linz,-,14,-,18,+-0,bundesliga-A1
+TSV Hartberg,-,14,€360k,13,€360k,bundesliga-A1
+WSG Tirol,-,11,-,10,+-0,bundesliga-A1
+Grazer AK 1902,-,19,-,17,+-0,bundesliga-A1
+SCR Altach,-,9,€154k,13,€154k,bundesliga-A1
 FC Basel 1893,€15.50m,21,€23.45m,18,€7.95m,super-league
 BSC Young Boys,€13.55m,20,€23.70m,20,€10.15m,super-league
 FC Sion,€2.00m,20,€2.94m,25,€937k,super-league
@@ -261,12 +261,12 @@ CF Pachuca,€3.00m,15,€10.48m,16,€7.48m,liga-mx-apertura
 FC Juárez,€1.70m,12,€1.90m,13,€200k,liga-mx-apertura
 Club Tijuana,€1.50m,15,€6.85m,13,€5.35m,liga-mx-apertura
 CF Monterrey,€1.00m,9,€16.44m,9,€15.44m,liga-mx-apertura
-Querétaro FC,€1.00m,19,€1.00m,15,+-0,liga-mx-apertura
+Querétaro FC,€1.00m,21,€1.00m,15,+-0,liga-mx-apertura
 Santos Laguna,€850k,6,-,6,€-850k,liga-mx-apertura
+Puebla FC,-,16,€214k,20,€214k,liga-mx-apertura
 Atlas Guadalajara,-,7,€3.80m,10,€3.80m,liga-mx-apertura
 Atlético de San Luis,-,12,-,3,+-0,liga-mx-apertura
 Mazatlán FC,-,12,-,9,+-0,liga-mx-apertura
-Puebla FC,-,16,€214k,20,€214k,liga-mx-apertura
 Al-Qadsiah FC,€124.06m,22,€25.00m,19,€-99.06m,saudi-pro-league
 NEOM SC,€115.19m,19,-,14,€-115.19m,saudi-pro-league
 Al-Nassr FC,€104.97m,19,€11.65m,18,€-93.33m,saudi-pro-league
