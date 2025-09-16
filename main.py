@@ -100,11 +100,24 @@ class TransfermarktScraper:
     
     def scrape_all_leagues(self) -> pd.DataFrame:
         all_data = []
+        league_name_counts = {}
         
+        for league_name, league_id in self.LEAGUES:
+            league_name_counts[league_name] = league_name_counts.get(league_name, 0) + 1
+        
+        league_name_seen = {}
         for league_name, league_id in self.LEAGUES:
             df = self.fetch_league_data(league_name, league_id)
             
             if df is not None and not df.empty:
+                # if this league name appears multiple times and we've seen it before, add suffix
+                if league_name_counts[league_name] > 1 and league_name in league_name_seen:
+                    # update the League column to add the suffix
+                    df['League'] = f"{league_name}-{league_id}"
+                
+                # mark this league name as seen
+                league_name_seen[league_name] = True
+                
                 all_data.append(df)
                 self.logger.info(f"Successfully scraped {len(df)} rows for {league_name}")
         
